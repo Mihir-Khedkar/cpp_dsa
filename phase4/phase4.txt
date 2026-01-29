@@ -1,0 +1,45 @@
+A. Basics (DO NOT SKIP)
+
+⭐ Create singly linked list
+
+⭐ Print linked list
+
+Insert at beginning
+
+Insert at end
+
+
+
+B. Deletion & Traversal
+
+Delete node by value
+
+Delete node at position
+
+Find length of linked list
+
+
+
+C. Classic Problems (INTERVIEW CORE)
+
+⭐ Reverse linked list (iterative)
+
+Reverse linked list (recursive)
+
+Find middle of linked list
+
+
+
+D. Advanced but Essential
+
+⭐ Detect cycle (Floyd’s algorithm)
+
+Merge two sorted linked lists
+
+
+
+Optional (only if curious)
+
+Remove Nth node from end
+
+Check palindrome linked list

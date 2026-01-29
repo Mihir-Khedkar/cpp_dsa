@@ -1,0 +1,37 @@
+A. Pure Recursion
+
+⭐ Print numbers from 1 to N using recursion
+
+Print numbers from N to 1
+
+Factorial using recursion
+
+Fibonacci using recursion
+
+
+
+B. String / Array Recursion
+
+⭐ Reverse string using recursion
+
+Check palindrome using recursion
+
+Sum of array elements using recursion
+
+
+
+C. Mathematical Recursion
+
+Power(x, n)
+
+Count digits of a number
+
+Sum of digits
+
+
+
+D. Slightly Harder (Optional)
+
+Check if array is sorted
+
+Binary search using recursion

@@ -1,0 +1,47 @@
+A. DP Foundations
+
+⭐ Fibonacci (memoization)
+
+⭐ Fibonacci (tabulation)
+
+Climbing stairs
+
+
+
+B. 1D DP Problems
+
+⭐ Coin change (min coins)
+
+House robber
+
+Frog jump
+
+
+
+C. 2D DP Problems
+
+⭐ 0/1 knapsack
+
+Subset sum
+
+Partition equal subset sum
+
+
+
+D. Sequence DP
+
+⭐ Longest increasing subsequence
+
+Longest common subsequence
+
+
+
+Optional (hard but powerful)
+
+Matrix chain multiplication
+
+Edit distance
+
+Palindromic subsequences
+
+Rod cutting

@@ -1,0 +1,67 @@
+A. Array Basics
+
+⭐ Find largest and smallest element
+
+Count frequency of elements
+
+Reverse an array
+
+Rotate array left by 1
+
+Rotate array by K positions
+
+
+
+B. Searching & Comparison
+
+Linear search in array
+
+Find second largest element
+
+Check if array is sorted
+
+Remove duplicates from sorted array
+
+
+
+C. Two-Pointer / Sliding Window
+
+⭐ Reverse array using two pointers
+
+Pair with given sum
+
+Move all zeros to end
+
+Longest subarray with sum = K
+
+
+
+D. Prefix Sum
+
+Compute prefix sum array
+
+Range sum queries
+
+
+
+E. Strings
+
+⭐ Reverse a string
+
+Check if string is palindrome
+
+Count vowels and consonants
+
+Character frequency in string
+
+Remove duplicates from string
+
+
+
+(Optional but good)
+
+Find missing number
+
+Merge two sorted arrays
+
+Intersection of two arrays

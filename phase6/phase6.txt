@@ -1,0 +1,65 @@
+Tree Basics (DO NOT RUSH)
+
+⭐ Create binary tree
+
+⭐ Print tree (inorder traversal)
+
+Preorder traversal
+
+Postorder traversal
+
+Understand traversal deeply.
+
+
+
+B. Level Order (QUEUE USE)
+
+⭐ Level order traversal
+
+Print level by level
+
+Height / max depth of tree
+
+
+
+C. Classic Tree Problems (CORE)
+
+⭐ Count number of nodes
+
+⭐ Sum of all nodes
+
+Check if tree is identical
+
+Mirror of a tree
+
+
+
+D. Advanced Recursive Thinking
+
+⭐ Diameter of binary tree
+
+Check if tree is balanced
+
+Lowest common ancestor
+
+These separate syntax from thinking.
+
+
+
+E. Binary Search Tree (BST)
+
+⭐ Insert into BST
+
+Search in BST
+
+Find minimum and maximum
+
+Validate BST
+
+
+
+Optional (only if confident)
+
+Kth smallest element in BST
+
+Zigzag traversal

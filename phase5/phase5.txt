@@ -1,0 +1,43 @@
+A. Stack Basics (FOUNDATION)
+
+⭐ Implement stack using array
+
+⭐ Implement stack using vector
+
+Push, pop, peek operations
+
+👉 Even though STL exists, do this once manually.
+
+
+
+B. Stack Applications (VERY IMPORTANT)
+
+⭐ Valid parentheses
+
+⭐ Reverse a string using stack
+
+Next greater element
+
+Stock span problem
+
+These teach real stack usage.
+
+
+
+C. Monotonic Stack (KEY PATTERN)
+
+⭐ Next smaller element
+
+Largest rectangle in histogram
+
+If these make sense → you’re doing well.
+
+
+
+D. Queue Basics
+
+⭐ Implement queue using array
+
+Implement queue using deque
+
+Implement queue using two stacks

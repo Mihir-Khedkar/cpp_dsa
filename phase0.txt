@@ -1,0 +1,43 @@
+Basics
+
+⭐ Hello World (console I/O)
+
+Read two numbers and print sum
+
+Check even or odd
+
+Find maximum of 3 numbers
+
+Simple calculator using switch
+
+
+
+Loops
+
+Print numbers 1 to N
+
+Print multiplication table of N
+
+Count digits of a number
+
+Reverse a number
+
+Check if number is palindrome
+
+
+
+Functions
+
+Function to find max of two numbers
+
+Function to check prime number
+
+Function to compute factorial (iterative)
+
+
+
+Arrays & Vectors
+
+⭐ Read N numbers into vector and print them
+
+Find sum & average of array elements

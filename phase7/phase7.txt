@@ -1,0 +1,33 @@
+A. Hash Basics
+
+⭐ Implement frequency array (integers)
+
+⭐ Character frequency using unordered_map
+
+Find duplicate elements in array
+
+
+
+B. Classic Hashing Problems
+
+⭐ Two Sum
+
+⭐ Subarray with sum = K
+
+Longest subarray with equal 0s and 1s
+
+
+
+C. Set-Based Problems
+
+⭐ Longest consecutive sequence
+
+Intersection of two arrays
+
+Check if array is subset of another
+
+
+
+Optional
+
+Group anagrams

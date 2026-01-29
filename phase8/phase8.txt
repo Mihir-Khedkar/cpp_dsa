@@ -1,0 +1,41 @@
+A. Graph Representation
+
+⭐ Create adjacency list (undirected)
+
+Create adjacency list (directed)
+
+
+
+B. Traversals (CORE)
+
+⭐ BFS traversal
+
+⭐ DFS traversal (recursive)
+
+DFS traversal (iterative)
+
+
+
+C. Classic Graph Problems
+
+⭐ Number of connected components
+
+⭐ Detect cycle (undirected graph)
+
+Number of islands (grid DFS/BFS)
+
+
+
+D. Slightly Advanced
+
+Detect cycle (directed graph)
+
+Topological sort (DFS or Kahn’s)
+
+
+
+Optional
+
+Shortest path in unweighted graph
+
+Bipartite graph check

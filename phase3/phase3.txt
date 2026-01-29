@@ -1,0 +1,55 @@
+A. Linear & Binary Search (CORE)
+
+⭐ Linear search in array
+
+⭐ Binary search (iterative)
+
+Binary search (recursive)
+
+First occurrence of element
+
+Last occurrence of element
+
+👉 These 5 alone are mandatory.
+
+
+
+B. Binary Search Variants (VERY IMPORTANT)
+
+⭐ Count occurrences of element
+
+Search in rotated sorted array
+
+Find peak element
+
+Find floor and ceil of a number
+
+If binary search feels shaky → stop here and practice more.
+
+
+
+C. Sorting Algorithms
+
+⭐ Bubble sort
+
+⭐ Selection sort
+
+Insertion sort
+
+👉 Focus on:
+
+Why they are slow
+
+When insertion sort is useful
+
+
+
+D. Divide & Conquer Sorting
+
+⭐ Merge sort
+
+Merge two sorted arrays
+
+(Optional) Count inversions
+
+You don’t need to memorize merge sort — understand it.
