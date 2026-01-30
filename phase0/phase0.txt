@@ -20,11 +20,9 @@ Loops
 
 Functions
 
-Function to find max of two numbers
-
-Function to check prime number
-
-Function to compute factorial (iterative)
+[DONE]Function to find max of two numbers - function_max2num.cpp
+[DONE]Function to check prime number - function_checkPrime.cpp
+[DONE]Function to compute factorial (iterative) - function_factorial.cpp
 
 
 
