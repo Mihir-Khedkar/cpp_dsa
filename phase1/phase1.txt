@@ -1,8 +1,7 @@
 A. Array Basics
 
-⭐ Find largest and smallest element
-
-Count frequency of elements
+[DONE]⭐ Find largest and smallest element - array_min_max.cpp
+[DONE]Count frequency of elements - array_frequency.cpp
 
 Reverse an array
 

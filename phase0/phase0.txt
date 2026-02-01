@@ -28,6 +28,5 @@ Functions
 
 Arrays & Vectors
 
-⭐ Read N numbers into vector and print them
-
-Find sum & average of array elements
+[DONE]⭐ Read N numbers into vector and print them - vector_basic.cpp
+[DONE]Find sum & average of array elements - vector_average.cpp
