@@ -2,12 +2,9 @@ A. Array Basics
 
 [DONE]⭐ Find largest and smallest element - array_min_max.cpp
 [DONE]Count frequency of elements - array_frequency.cpp
-
-Reverse an array
-
-Rotate array left by 1
-
-Rotate array by K positions
+[DONE]Reverse an array - reverse_array.cpp
+[DONE]Rotate array left and right by 1 - rotate_1.cpp
+[DONE]Rotate array by K positions - rotate_k.cpp
 
 
 
